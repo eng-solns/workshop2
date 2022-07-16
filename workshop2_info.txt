@@ -1,0 +1,9 @@
+Public IPv4 DNS: ec2-184-72-61-135.us-west-1.compute.amazonaws.com
+
+Push Command for AWS Registry (ECR): aws ecr get-login-password --region us-west-1 | docker login --username AWS --password-stdin 809832675615.dkr.ecr.us-west-1.amazonaws.com
+
+Repository (workshop2) URI: 809832675615.dkr.ecr.us-west-1.amazonaws.com/workshop2
+
+Database endpoint: nctutorials.cuz5qeyugmu3.us-west-1.rds.amazonaws.com
+
+Github workshop repository: https://github.com/eng-solns/workshop2.git
